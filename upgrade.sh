@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "learn README.md file if fot some error" 
 list="
 
 "
