@@ -29,6 +29,8 @@ chmod +x
 if this won't worked for you   
 so , sorry about it
 
+## support
+
 donation metamask account - 
 ```
 0x70ea09332622f482202798048E15EAE4B98d697f
